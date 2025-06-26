@@ -52,7 +52,7 @@ Contributions are welcome! If you have suggestions for new features, improvement
 
 ## 📄 License
 
-This project is open-source. (Consider adding a specific license here, e.g., MIT, Apache 2.0).
+This project is open-source.
 
 ---
 
