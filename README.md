@@ -17,7 +17,7 @@ A desktop application to create unique and visually appealing custom player name
 
 1.  Download the latest compiled `.exe` version from the [Releases](https://github.com/iamjrmh/CloneHeroColorGen/releases) section of this repository.
 2.  Unzip the downloaded file to a location on your computer (e.g., `C:\Program Files\CloneHeroNameGen`).
-3.  Run `newgui.exe` (or `CloneHeroColorGen.exe` if renamed).
+3.  Run `jrmh.rh Name Gen.exe`
 
 ### Generating a Gradient Name
 
