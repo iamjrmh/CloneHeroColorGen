@@ -56,4 +56,3 @@ This project is open-source. (Consider adding a specific license here, e.g., MIT
 
 ---
 
-*(Replace `[Releases](https://github.com/iamjrmh/CloneHeroColorGen/releases)` with the actual link to your releases page once you have them set up.)*
