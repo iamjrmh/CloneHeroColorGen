@@ -50,9 +50,5 @@ A desktop application to create unique and visually appealing custom player name
 
 Contributions are welcome! If you have suggestions for new features, improvements, or bug fixes, please open an issue or submit a pull request on the GitHub repository.
 
-## 📄 License
-
-This project is open-source.
-
 ---
 
