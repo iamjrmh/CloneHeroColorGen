@@ -43,7 +43,7 @@ A desktop application to create unique and visually appealing custom player name
 ### Exporting to `profiles.ini`
 
 1.  After generating your desired name in either mode, click the **"Export to profiles.ini"** button.
-2.  A folder selection dialog will appear. Navigate to your Clone Hero installation's `data` folder (or any other folder where you keep your `profiles.ini`) and select it.
+2.  A folder selection dialog will appear. Navigate to your Clone Hero "C:\Users\YourUsername\Documents\Clone Hero" and select it.
 3.  The application will add a new profile entry to your `profiles.ini` file. A confirmation message will appear upon successful export.
 
 ## 🤝 Contributing
